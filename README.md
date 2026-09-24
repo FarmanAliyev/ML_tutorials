@@ -1,2 +1,2 @@
 # ML_tutorials
-ML tutorials dedicated students
+ML tutorials for dedicated students
